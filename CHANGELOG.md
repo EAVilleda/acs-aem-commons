@@ -7,6 +7,13 @@ The format is based on [Keep a Changelog](http://keepachangelog.com)
 
 ## Unreleased
 
+### Added
+- 1927 - HTTP cache: added cookie exclusion
+- 1905 - HTTP cache: added response header exclusion
+
+### Changed
+- #1945 - Added support for jcr:content creation and update to the Data Importer
+
 ## [4.2.0] - 2019-06-18
 
 ### Added
